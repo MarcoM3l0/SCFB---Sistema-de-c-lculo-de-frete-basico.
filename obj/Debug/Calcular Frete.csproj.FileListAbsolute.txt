@@ -1,0 +1,11 @@
+D:\DADOS\Usuario\Desktop\dev\C#\C# testes\Calcular Frete\bin\Debug\Calcular Frete.exe.config
+D:\DADOS\Usuario\Desktop\dev\C#\C# testes\Calcular Frete\bin\Debug\Calcular Frete.exe
+D:\DADOS\Usuario\Desktop\dev\C#\C# testes\Calcular Frete\bin\Debug\Calcular Frete.pdb
+D:\DADOS\Usuario\Desktop\dev\C#\C# testes\Calcular Frete\obj\Debug\Calcular Frete.csproj.AssemblyReference.cache
+D:\DADOS\Usuario\Desktop\dev\C#\C# testes\Calcular Frete\obj\Debug\Calcular Frete.csproj.SuggestedBindingRedirects.cache
+D:\DADOS\Usuario\Desktop\dev\C#\C# testes\Calcular Frete\obj\Debug\Calcular_Frete.Form1.resources
+D:\DADOS\Usuario\Desktop\dev\C#\C# testes\Calcular Frete\obj\Debug\Calcular_Frete.Properties.Resources.resources
+D:\DADOS\Usuario\Desktop\dev\C#\C# testes\Calcular Frete\obj\Debug\Calcular Frete.csproj.GenerateResource.cache
+D:\DADOS\Usuario\Desktop\dev\C#\C# testes\Calcular Frete\obj\Debug\Calcular Frete.csproj.CoreCompileInputs.cache
+D:\DADOS\Usuario\Desktop\dev\C#\C# testes\Calcular Frete\obj\Debug\Calcular Frete.exe
+D:\DADOS\Usuario\Desktop\dev\C#\C# testes\Calcular Frete\obj\Debug\Calcular Frete.pdb
